@@ -121,8 +121,8 @@ header nav ul li a{
     row-gap: 25px;
     
     .grid{
-
-}
+        
+    }
 
     .grid1{
         background-color: #1d2d44;
@@ -151,6 +151,7 @@ header nav ul li a{
         form{
             margin: 35px;
             text-align: center;
+
             input{
                 color: rgb(18, 20, 20);
                 text-align: center;
