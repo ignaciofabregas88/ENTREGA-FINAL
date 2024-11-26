@@ -1,0 +1,45 @@
+header{
+    display: flex;
+    background-color: white;
+    justify-content: space-between;
+    
+    }
+
+    img{
+        width: 75px;
+        padding: 10px;
+        margin-left: 25px;
+    }
+
+    nav
+        ul{
+            margin: 15px;
+            list-style: none;
+            display: flex;
+            align-items: center;
+
+            li{
+                a:hover{
+                    margin: 15px;
+                    padding: 5px;
+                    background-color: #0d1321;
+                    transition: 1s;
+                    color: #fcfcfc;
+                    font-size: 30px;
+                    border-radius: 10px;
+                }
+                a{
+                    text-align: center;
+                    margin: 15px;
+                    color: #0d1321;
+                    font-size: small;
+                    text-decoration: none;
+                    font-family: Century Gothic ; 
+                
+            }
+        }
+    }
+
+
+
+

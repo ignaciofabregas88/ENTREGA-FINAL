@@ -1,0 +1,86 @@
+.seccion-container{
+    margin: 20px 150px 20px 150px; 
+    display: flex;
+    font-family: Century Gothic;
+
+    .div-1{
+        font-family: Century Gothic;
+        border-radius: 20px;
+        padding: 20px;
+        margin: 20px;
+        border: 2px solid #3e5c76;
+        background-color: #3e5c76;
+    
+        h1{
+            color: aliceblue;
+            font-size: 15px;
+            margin: 10px;
+            text-align: center;
+    
+            span{
+                border-radius: 10px;
+                margin: 5px;
+                padding: 2px;
+                background-color: #ffbe0b;
+                }
+            }
+        }
+
+    .div-2{
+        padding: 20px;
+        margin: 20px;
+        border-radius: 20px;
+        border: 2px solid #1d2d44;
+        background-color: #1d2d44;
+        h2{
+            margin: 15px;
+            text-align: center;
+            font-family: Arial, Helvetica, sans-serif;
+            color: white;
+            }
+        p{
+            color: aliceblue;
+            font-family:Century Gothic ;
+            text-align: center;
+            }
+        }
+    
+        .boton-main{
+        margin: 25px;
+        text-align: center;
+        a{
+            background-color: #ffbe0b;
+            font-size: 30px;
+            font-family: Arial, Helvetica, sans-serif;
+            text-align: center;
+            text-decoration: none;
+            color: black;
+            border: 2px solid #ffbe0b ;
+            padding: 10px;
+            border-radius: 20px;
+            }
+        }
+    }
+
+
+h2 {
+    margin: 15px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+
+.container-fluid {
+    height: 90%;
+    width: 100%;
+    }
+
+    .carousel-inner img {
+    width: 80%;
+    max-height: 350px;
+    }
+
+    .carousel-inner {
+    height: 400px;
+    }

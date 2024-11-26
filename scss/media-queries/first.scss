@@ -1,0 +1,121 @@
+@media screen and (max-width: 650px){
+
+    .anuncio{
+        background-color: #ffbe0b;
+        justify-content: center;
+        padding: 10px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: small;
+    }
+
+    body{
+        background-color:#0d1321
+    }
+
+    header{
+        display: flex;
+        justify-content: space-between;
+        background-color: #fcfcfc;
+    }
+
+    header img{
+        padding: 5px;
+        width: 120px;
+        height: 80px;
+    }
+
+    header nav ul{
+
+        margin: 15px;
+        list-style: none;
+        display: none;
+        align-items: center;
+        }
+    
+.seccion-container{
+    margin: 35px;
+    display: flex;
+    font-family: Century Gothic;
+    }
+
+    .div-1{
+    font-family: Century Gothic;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px;
+    background-color: #3e5c76;
+    }
+
+    .div-1 h1 span{
+    border-radius: 10px;
+    margin: 5px;
+    padding: 2px;
+    background-color: #ffbe0b;
+    }
+
+    .div-1 h1{
+    color: aliceblue;
+    font-size: 15px;
+    margin: 10px;
+    text-align: center;
+    }
+
+    .div-2{
+    padding: 20px;
+    margin: 20px;
+    border-radius: 20px;
+    border: 2px solid #1d2d44;
+    background-color: #1d2d44;
+    }
+
+    .div-2 p{
+    color: aliceblue;
+    font-family:Century Gothic ;
+    text-align: center;
+    }
+
+    h2{
+    margin: 15px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    }
+
+    .boton-main a{
+    background-color: #ffbe0b;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    border: 2px solid #ffbe0b ;
+    padding: 10px;
+    border-radius: 20px;
+    }
+
+    .boton-main{
+    margin: 25px;
+    text-align: center;
+    }
+
+    footer{
+        background-color: #3e5c76;
+        display: flex;
+        justify-content: center;
+        justify-content: space-between;
+        }
+    
+    footer img{
+    width: 45px;
+    height: 45px;
+    margin: 15px;
+    }
+
+    footer p{
+    margin: 10px;
+    }
+
+    .grid-container{
+        display:none ;
+    }
+}
